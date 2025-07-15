@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+
+# Huggingface code to host embedding model locally
+sentence-transformers
+
+qdrant_client
+redis
+pandas
